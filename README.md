@@ -1,4 +1,6 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gogletester&fontSize=90)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gogletester&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Gogletester/Gogletester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
